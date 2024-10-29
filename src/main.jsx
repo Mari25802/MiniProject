@@ -1,6 +1,6 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
-import { QrCode } from './css/QrCode.jsx'
+import { QrCode } from './QrCode.jsx'
 // import './css/app.css'
 import './css/QrCode.css'
 
