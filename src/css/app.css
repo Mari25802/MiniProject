@@ -1,0 +1,25 @@
+h1{
+    color: red;
+}
+p{
+    color: purple;
+}
+.name{
+    color: violet;
+}
+.error{
+    color: red;
+}
+.Student table{
+    border: 1px solid black;
+    width: 300px;
+    border-collapse: collapse;
+    margin-bottom: 10px;
+}
+.Student table th,
+.Student table td{
+    padding: 5px 10px;
+    width: 200px;
+    text-align: left;
+    border: 1px solid black;
+}
